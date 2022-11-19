@@ -1,0 +1,15 @@
+D:\Users\elif\source\repos\PaparaThirdWeek\PaparaThirdWeek.Businnes\bin\Debug\net5.0\PaparaThirdWeek.Business.deps.json
+D:\Users\elif\source\repos\PaparaThirdWeek\PaparaThirdWeek.Businnes\bin\Debug\net5.0\PaparaThirdWeek.Business.runtimeconfig.json
+D:\Users\elif\source\repos\PaparaThirdWeek\PaparaThirdWeek.Businnes\bin\Debug\net5.0\PaparaThirdWeek.Business.runtimeconfig.dev.json
+D:\Users\elif\source\repos\PaparaThirdWeek\PaparaThirdWeek.Businnes\bin\Debug\net5.0\PaparaThirdWeek.Business.dll
+D:\Users\elif\source\repos\PaparaThirdWeek\PaparaThirdWeek.Businnes\bin\Debug\net5.0\PaparaThirdWeek.Business.pdb
+D:\Users\elif\source\repos\PaparaThirdWeek\PaparaThirdWeek.Businnes\obj\Debug\net5.0\PaparaThirdWeek.Business.csproj.AssemblyReference.cache
+D:\Users\elif\source\repos\PaparaThirdWeek\PaparaThirdWeek.Businnes\obj\Debug\net5.0\PaparaThirdWeek.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\elif\source\repos\PaparaThirdWeek\PaparaThirdWeek.Businnes\obj\Debug\net5.0\PaparaThirdWeek.Business.AssemblyInfoInputs.cache
+D:\Users\elif\source\repos\PaparaThirdWeek\PaparaThirdWeek.Businnes\obj\Debug\net5.0\PaparaThirdWeek.Business.AssemblyInfo.cs
+D:\Users\elif\source\repos\PaparaThirdWeek\PaparaThirdWeek.Businnes\obj\Debug\net5.0\PaparaThirdWeek.Business.csproj.CoreCompileInputs.cache
+D:\Users\elif\source\repos\PaparaThirdWeek\PaparaThirdWeek.Businnes\obj\Debug\net5.0\PaparaThirdWeek.Business.dll
+D:\Users\elif\source\repos\PaparaThirdWeek\PaparaThirdWeek.Businnes\obj\Debug\net5.0\refint\PaparaThirdWeek.Business.dll
+D:\Users\elif\source\repos\PaparaThirdWeek\PaparaThirdWeek.Businnes\obj\Debug\net5.0\PaparaThirdWeek.Business.pdb
+D:\Users\elif\source\repos\PaparaThirdWeek\PaparaThirdWeek.Businnes\obj\Debug\net5.0\PaparaThirdWeek.Business.genruntimeconfig.cache
+D:\Users\elif\source\repos\PaparaThirdWeek\PaparaThirdWeek.Businnes\obj\Debug\net5.0\ref\PaparaThirdWeek.Business.dll
